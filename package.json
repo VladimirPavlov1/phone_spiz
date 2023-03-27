@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://github.com/VladimirPavlov1/phone_spiz",
   "dependencies": {
+    "@actions/core": "^1.10.0",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/material": "^5.11.14",
