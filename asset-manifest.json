@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/VladimirPavlov1/phone_spiz/static/css/main.7de70e83.css",
-    "main.js": "/VladimirPavlov1/phone_spiz/static/js/main.c25c39f6.js",
-    "static/js/410.b84507b1.chunk.js": "/VladimirPavlov1/phone_spiz/static/js/410.b84507b1.chunk.js",
-    "static/js/959.0b4a1afb.chunk.js": "/VladimirPavlov1/phone_spiz/static/js/959.0b4a1afb.chunk.js",
-    "static/js/815.0c40959e.chunk.js": "/VladimirPavlov1/phone_spiz/static/js/815.0c40959e.chunk.js",
-    "static/js/643.eec73616.chunk.js": "/VladimirPavlov1/phone_spiz/static/js/643.eec73616.chunk.js",
-    "static/js/381.9e19bae1.chunk.js": "/VladimirPavlov1/phone_spiz/static/js/381.9e19bae1.chunk.js",
-    "index.html": "/VladimirPavlov1/phone_spiz/index.html",
-    "main.7de70e83.css.map": "/VladimirPavlov1/phone_spiz/static/css/main.7de70e83.css.map",
-    "main.c25c39f6.js.map": "/VladimirPavlov1/phone_spiz/static/js/main.c25c39f6.js.map",
-    "410.b84507b1.chunk.js.map": "/VladimirPavlov1/phone_spiz/static/js/410.b84507b1.chunk.js.map",
-    "959.0b4a1afb.chunk.js.map": "/VladimirPavlov1/phone_spiz/static/js/959.0b4a1afb.chunk.js.map",
-    "815.0c40959e.chunk.js.map": "/VladimirPavlov1/phone_spiz/static/js/815.0c40959e.chunk.js.map",
-    "643.eec73616.chunk.js.map": "/VladimirPavlov1/phone_spiz/static/js/643.eec73616.chunk.js.map",
-    "381.9e19bae1.chunk.js.map": "/VladimirPavlov1/phone_spiz/static/js/381.9e19bae1.chunk.js.map"
+    "main.css": "/phone_spiz/static/css/main.7de70e83.css",
+    "main.js": "/phone_spiz/static/js/main.96e61448.js",
+    "static/js/410.b84507b1.chunk.js": "/phone_spiz/static/js/410.b84507b1.chunk.js",
+    "static/js/959.0b4a1afb.chunk.js": "/phone_spiz/static/js/959.0b4a1afb.chunk.js",
+    "static/js/815.0c40959e.chunk.js": "/phone_spiz/static/js/815.0c40959e.chunk.js",
+    "static/js/643.eec73616.chunk.js": "/phone_spiz/static/js/643.eec73616.chunk.js",
+    "static/js/381.9e19bae1.chunk.js": "/phone_spiz/static/js/381.9e19bae1.chunk.js",
+    "index.html": "/phone_spiz/index.html",
+    "main.7de70e83.css.map": "/phone_spiz/static/css/main.7de70e83.css.map",
+    "main.96e61448.js.map": "/phone_spiz/static/js/main.96e61448.js.map",
+    "410.b84507b1.chunk.js.map": "/phone_spiz/static/js/410.b84507b1.chunk.js.map",
+    "959.0b4a1afb.chunk.js.map": "/phone_spiz/static/js/959.0b4a1afb.chunk.js.map",
+    "815.0c40959e.chunk.js.map": "/phone_spiz/static/js/815.0c40959e.chunk.js.map",
+    "643.eec73616.chunk.js.map": "/phone_spiz/static/js/643.eec73616.chunk.js.map",
+    "381.9e19bae1.chunk.js.map": "/phone_spiz/static/js/381.9e19bae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7de70e83.css",
-    "static/js/main.c25c39f6.js"
+    "static/js/main.96e61448.js"
   ]
 }
